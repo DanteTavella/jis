@@ -1,0 +1,88 @@
+body{
+    background-image: url(img/calamuchita.jpeg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    
+}
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #333;
+    text-align: center;
+    padding: 1%;
+    color: white;
+}
+.contenedor_1{
+    width: 35%;
+    margin-top: 1%;
+    text-align: center;
+    float: left;
+    border-radius: 10px;
+    
+}
+.contenedor_2{
+    color: white;
+    background-color: #333;
+    text-align: center;
+    float: right;
+    width: 63%;
+    margin-top: 1%;
+    margin-left: 2%;
+    border-radius: 10px;
+}
+img{
+    object-fit: cover;
+}
+.contenedor_3{
+    color: white;
+    background-color: #333;
+    text-align: center;
+    float: right;
+    width: 63%;
+    margin-top: 1%;
+    margin-left: 2%;
+    border-radius: 10px;
+}
+.contenedor_4{
+    color: white;
+    background-color: #333;
+    float: left;
+    width: 35%;
+    margin-top: 1%;
+    border-radius: 10px;
+}
+.contenedor_5{
+    width: 100%;
+    background-color: #333;
+    float: left;
+    margin-top: 1%;
+    color: white;
+    text-align: center;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+.links{
+    background-color: #333;
+    float: left;
+    color: white;
+    margin-top: 1%;
+    width: 100%;
+    margin-bottom: 1%;
+
+}
+
+.footer{
+    background-color:#333;
+    position: absolute;
+    text-align: left;
+    bottom: 0;
+    width: 100%;
+    margin-right: 10px;
+    
+    font-family: serif;
+    margin-top: 1%;
+}
+#youtubelogo{
+    width: 3%;
+    padding: 5px;
+}
